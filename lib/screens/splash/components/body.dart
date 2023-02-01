@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:uas_fachrurrozi/constants.dart';
-import 'package:uas_fachrurrozi/size_config.dart';
+import 'package:uas_rizkirivaldi/constants.dart';
+import 'package:uas_rizkirivaldi/size_config.dart';
 
 // This is the best practice
 import '../components/splash_content.dart';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:uas_fachrurrozi/constants.dart';
-import 'package:uas_fachrurrozi/models/Product.dart';
-import 'package:uas_fachrurrozi/screens/details/details_screen.dart';
+import 'package:uas_rizkirivaldi/constants.dart';
+import 'package:uas_rizkirivaldi/models/Product.dart';
+import 'package:uas_rizkirivaldi/screens/details/details_screen.dart';
 
 import 'categorries.dart';
 import 'item_card.dart';

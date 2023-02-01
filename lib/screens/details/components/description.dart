@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:uas_fachrurrozi/models/Product.dart';
+import 'package:uas_rizkirivaldi/models/Product.dart';
 
 import '../../../constants.dart';
 

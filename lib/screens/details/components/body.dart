@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:uas_fachrurrozi/constants.dart';
-import 'package:uas_fachrurrozi/models/Product.dart';
+import 'package:uas_rizkirivaldi/constants.dart';
+import 'package:uas_rizkirivaldi/models/Product.dart';
 
 import 'add_to_cart.dart';
 import 'color_and_size.dart';

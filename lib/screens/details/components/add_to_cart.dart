@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:uas_fachrurrozi/models/Product.dart';
+import 'package:uas_rizkirivaldi/models/Product.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../../../constants.dart';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:uas_fachrurrozi/pages/LoginPage.dart';
-import 'package:uas_fachrurrozi/screens/home/home_screen.dart';
-import 'package:uas_fachrurrozi/screens/splash/splash_screen.dart';
+import 'package:uas_rizkirivaldi/pages/LoginPage.dart';
+import 'package:uas_rizkirivaldi/screens/home/home_screen.dart';
+import 'package:uas_rizkirivaldi/screens/splash/splash_screen.dart';
 
 import 'constants.dart';
 

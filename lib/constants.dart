@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:uas_fachrurrozi/size_config.dart';
+import 'package:uas_rizkirivaldi/size_config.dart';
 
 const kTextColor = Color(0xFF535353);
 const kTextLightColor = Color(0xFFACACAC);
